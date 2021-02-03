@@ -17,8 +17,8 @@
     "url": "https://github.com/jmblalock/node-example/issues"
   },
   "homepage": "https://github.com/jmblalock/node-example#readme",
-  "description": "",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "description": ""
 }
