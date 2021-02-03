@@ -1,7 +1,6 @@
 {
   "name": "node-example",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,5 +8,17 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmblalock/node-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jmblalock/node-example/issues"
+  },
+  "homepage": "https://github.com/jmblalock/node-example#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
